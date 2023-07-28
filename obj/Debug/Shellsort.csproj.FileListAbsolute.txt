@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Shellsort\Shellsort\bin\Debug\Shellsort.exe.config
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Shellsort\Shellsort\bin\Debug\Shellsort.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Shellsort\Shellsort\bin\Debug\Shellsort.pdb
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Shellsort\Shellsort\obj\Debug\Shellsort.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Shellsort\Shellsort\obj\Debug\Shellsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Shellsort\Shellsort\obj\Debug\Shellsort.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Shellsort\Shellsort\obj\Debug\Shellsort.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Shellsort\Shellsort\obj\Debug\Shellsort.pdb
